@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="CIRCLE_SIZE_DP">20dp</dimen>
+</resources>
